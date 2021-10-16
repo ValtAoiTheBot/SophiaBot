@@ -74,7 +74,14 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """Hey there 👋! My name is *Sophia*.\n\nI can help manage your groups with useful features, feel free to add me to your groups!."""
+PM_START_TEXT = """
+`𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄!` [🧑](https://telegra.ph/file/cd95b1bd8d5381cb3fb70.jpg) 
+`𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒` *𝐕𝐀𝐋𝐓 𝐀𝐎𝐈*`
+`𝐈 𝐀𝐌 𝐀 𝐁𝐄𝐘𝐁𝐋𝐀𝐃𝐄 𝐓𝐇𝐄𝐌𝐄𝐃 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓 𝐁𝐎𝐓.`
+𝐌𝐀𝐍𝐀𝐆𝐄𝐃 𝐁𝐘 𝐏𝐈𝐆𝐀𝐒𝐔𝐒 𝐔𝐏𝐃𝐀𝐓𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐆𝐑𝐎𝐔𝐏
+𝐉𝐎𝐈𝐍 @𝐏𝐈𝐆𝐀𝐒𝐔𝐒𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 @𝐏𝐈𝐆𝐀𝐒𝐔𝐒𝐒𝐔𝐏𝐏𝐎𝐑𝐓
+𝐘𝐎𝐔 𝐂𝐀𝐍 𝐅𝐈𝐍𝐃 𝐌𝐘 𝐋𝐈𝐒𝐓 𝐎𝐅 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 𝐖𝐈𝐓𝐇` *./help*   
+"""
 
 STICKERS = (
       "CAACAgUAAx0CTpRfGwACF41hMfagTfWdHNFici1VtOCQVVNYmgACgh8AAsZRxhU6tKJa_ySnnCAE",
